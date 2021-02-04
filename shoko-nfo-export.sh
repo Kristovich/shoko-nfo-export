@@ -1,3 +1,4 @@
+#!/bin/bash
 #requires jq to be installed
 SERVER_ADDRESS="http://192.168.1.255:8111"
 USERNAME="default"
