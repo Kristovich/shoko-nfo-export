@@ -7,3 +7,5 @@ Ideally, you prepare by removing missing files in shoko as well as recreating gr
 Edit the top 5 variables in the file and run using bash.
 
 The collections folders that get created in the current directory can be put into jellyfin/emby in their respective "collections" folder within the folder labled data (also be sure to fix permissions). 
+
+If for whatever reason you decide to terminate the script while its processing, be sure to remove all the [boxset] folders in the current directory, otherwise you will get a bunch of duplicates.
